@@ -4,9 +4,9 @@ Retrieval-Augmented Generation (RAG) Backend using FastAPI + LangChain + FAISS +
 
 🌐 Live Project
 
-🔹 Portfolio (Frontend): https://amit2k11.github.io/
+🔹 Portfolio (Frontend): https://amitr2k11.github.io/
 
-🔹 Backend Repository: https://github.com/amit2k11/RAG-Portfolio-Backend
+🔹 Backend Repository: https://github.com/amitr2k11/RAG-Portfolio-Backend
 
 The chatbot dynamically answers questions about my experience using a real RAG pipeline powered by a local LLM.
 
@@ -159,7 +159,7 @@ Product Consultant | AI Builder | Data-Driven Problem Solver
 
 🔗 LinkedIn: https://www.linkedin.com/in/amitrnjan/
 
-🌐 Portfolio: https://amit2k11.github.io/
+🌐 Portfolio: https://amitr2k11.github.io/
 
 ⭐ If You Like This Project
 
